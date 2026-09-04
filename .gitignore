@@ -4,6 +4,8 @@
 #
 .utmp/
 /[Ll]ibrary/
+git config --global http.postBuffer 1048576000
+
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
